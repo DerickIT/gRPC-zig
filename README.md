@@ -67,7 +67,7 @@ try stream.push("Final message", true);
 ```zig
 .dependencies = .{
     .grpc_zig = .{
-        .url = "https://github.com/ziglana/grpc-zig/archive/refs/tags/v0.1.0.tar.gz",
+        .url = "https://github.com/derickit/grpc-zig/archive/refs/tags/v0.1.0.tar.gz",
     },
 },
 ```
